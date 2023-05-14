@@ -5,11 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF2400&lines=Мои+навыки:)](https://git.io/typing-svg)
 <p><strong>&bull;&nbsp;Английский - B2</strong></p>
-<p><strong>&bull;&nbsp;Python(уверенное владение), C/C++(базовый уровень)</strong></p>
+<p><strong>&bull;&nbsp;Python(уверенное владение), C/C++(базовый уровень), HTML(на уровне создания этого портфолио :))</strong></p>
 <p><strong>&bull;&nbsp;Увереное знание математики, статистики, комбинаторики</strong></p>
 <p><strong>&bull;&nbsp;Знание законодательства (ФЗ, Приказы ФСТЭК+ФСБ, КТ, ИСПДн)</strong></p>
 <p><strong>&bull;&nbsp;Моделирование угроз</strong></p>
-<p><strong>&bull;&nbsp;ОС Linux, ОС Windows</strong></p>
+<p><strong>&bull;&nbsp;ОС Linux(kali, ubuntu), ОС Windows</strong></p>
+<p><strong>&bull;&nbsp;Virtual Box</strong></p>
 <p><strong>&bull;&nbsp;Криптография</strong></p>
 <p><strong>&bull;&nbsp;Git</strong></p>
 <p><strong>&bull;&nbsp;Сети передачи данных и их безопасность</strong></p>
