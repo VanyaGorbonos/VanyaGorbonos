@@ -10,6 +10,8 @@
 <p><strong>&bull;&nbsp;Знание законодательства (ФЗ, Приказы ФСТЭК+ФСБ, КТ, ИСПДн)</strong></p>
 <p><strong>&bull;&nbsp;Моделирование угроз</strong></p>
 <p><strong>&bull;&nbsp;ОС Linux(kali, ubuntu), ОС Windows</strong></p>
+<p><strong>&bull;&nbsp;Powershell, bash</strong></p>
+<p><strong>&bull;&nbsp;Sysinternals</strong></p>
 <p><strong>&bull;&nbsp;Virtual Box</strong></p>
 <p><strong>&bull;&nbsp;Криптография</strong></p>
 <p><strong>&bull;&nbsp;Git</strong></p>
