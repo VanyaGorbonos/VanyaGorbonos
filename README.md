@@ -7,16 +7,16 @@
 <p><strong>&bull;&nbsp;Английский - B2</strong></p>
 <p><strong>&bull;&nbsp;Python(уверенное владение), C/C++(базовый уровень), HTML(на уровне создания этого портфолио :))</strong></p>
 <p><strong>&bull;&nbsp;Увереное знание математики, статистики, комбинаторики</strong></p>
-<p><strong>&bull;&nbsp;Знание законодательства (ФЗ, Приказы ФСТЭК+ФСБ, КТ, ИСПДн)</strong></p>
+<p><strong>&bull;&nbsp;Знание нормативно-правовых актов в сфере ИБ Российской Федерации, сфере ответственности государственных структур: ФСТЭК, ФСБ, Министерство обороны, ЦБ</strong></p>
 <p><strong>&bull;&nbsp;Моделирование угроз</strong></p>
-<p><strong>&bull;&nbsp;ОС Linux(kali, ubuntu), ОС Windows</strong></p>
+<p><strong>&bull;&nbsp;Работа с операционными системами  ОС Linux(kali, ubuntu), ОС Windows</strong></p>
 <p><strong>&bull;&nbsp;Powershell, bash</strong></p>
 <p><strong>&bull;&nbsp;Sysinternals</strong></p>
 <p><strong>&bull;&nbsp;Virtual Box</strong></p>
-<p><strong>&bull;&nbsp;Криптография</strong></p>
+<p><strong>&bull;&nbsp;Знание криптографических и некриптографических методов защиты информации, влияния человеческого фактора</strong></p>
 <p><strong>&bull;&nbsp;Git</strong></p>
-<p><strong>&bull;&nbsp;Сети передачи данных и их безопасность</strong></p>
-<p><strong>&bull;&nbsp;Статистический и динамический анализ</strong></p>
+<p><strong>&bull;&nbsp;Построение работы сетей и работы сетевого стека</strong></p>
+<p><strong>&bull;&nbsp;Анализ инцидентов и разработка мер реагирования</strong></p>
 
 
 
