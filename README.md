@@ -1,7 +1,7 @@
 # Портфолио
 
 <h3 align="center">Всем привет <img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" height="32" />, я начинающий специалист по информационной безопасности</h3>
-<h3 align="center">Обучаюсь на курсе в "Нетологии" (Специалист по информационной безопасности с нуля)</h3>
+<h3 align="center">Обучаюсь на курсе в "Нетологии" (Специалист по информационной безопасности с нуля), решаю задачки и постоянно развиваюсь</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF2400&lines=Мои+навыки:)](https://git.io/typing-svg)
 <p><strong>&bull;&nbsp;Английский - B2</strong></p>
@@ -23,13 +23,21 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB300&lines=Мои+проекты:)](https://git.io/typing-svg)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB300&lines=Мои+проекты:)](https://git.io/typing-svg)
+
+
+<p><strong>&bull;&nbsp;</strong>Вхожу в топ <strong>3%</strong> на <a href="https://tryhackme.com/p/IvanGorbonos" target="_blank" rel="noopener"><strong>TryHackMe</a> и занимаю топ 600 на <a href="https://codeby.games/" target="_blank" rel="noopener"><strong>CodebyGames</a> </strong></p>
+
+
 
 <p><strong>&bull;&nbsp;</strong>Участие в <strong>IT-дайвинг</strong> от VK (выбор инциндента, расследование, почему он произошёл) : <a href="https://docs.google.com/document/d/1PkKaEWxhpm79vdBU8cIWObcYhF6-h7AoUfrjSEqSZMU/edit?usp=sharing" target="_blank" rel="noopener"><strong>Файл с проектом</a></strong></p>
 <p>Результат: приглашение на закрытое мероприятие в офисе VK и получение <a href="https://disk.yandex.ru/i/AVvcej8UMlJKkQ" target="_blank" rel="noopener"><strong>сертификата.</strong></a></p>
 
 <p><strong>&bull;&nbsp;</strong>Участие в <strong>Advent of Cyber 2022</strong> от Try Hack Me(основы кибербезопасности) : <a href="https://tryhackme.com/room/adventofcyber4" target="_blank" rel="noopener"><strong>Кибер-марафон</a></strong></p>
 <p>Результат: получение <a href="https://disk.yandex.ru/i/cqtIx5cpU3iOuA" target="_blank" rel="noopener"><strong>сертификата.</strong></a></p>
+
+<p><strong>&bull;&nbsp;</strong>Участие в курсе<strong>Белый хакер</strong> от CyberED : <a href="[https://tryhackme.com/room/adventofcyber4](https://cyber-ed.ru/professiya-hacker/)" target="_blank" rel="noopener"><strong>Профессия - белый хакер</a></strong></p>
+<p>Результат: получение <a href="https://disk.yandex.ru/i/tCm1brdDqhGr2g target="_blank" rel="noopener"><strong>сертификата с отличием!.</strong></a></p>
 
 <p><strong>&bull;&nbsp;</strong>Проект<strong>&nbsp;"Сети передачи данных и безопасность":&nbsp;<a href="https://github.com/netology-code/pcs-ibnet-diplom" target="_blank" rel="noopener">Репозиторий с заданиями</a></strong></p>
 
@@ -38,9 +46,17 @@
 
 <p><strong>- </strong>(Работа с закононодательством, перехват и анализ сетевого трафика: WireShark, эксплуатация уязвимостей, nmap, metasploit)&nbsp;</p>
 
+<p><strong>&bull; </strong>Курсовой проект<strong> "E-commerce":&nbsp;&nbsp;<a href="https://github.com/netology-code/sib-ecommerce-diploma" target="_blank" rel="noopener">Репозиторий с задачами курсовой работой</a></strong></p>
+
+<p><strong>- </strong> (Комплексное исследование функционирующего приложения и исходных кодов)&nbsp;</p>
+
+
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A5ACD&lines=Немного+обо+мне:)](https://git.io/typing-svg)
 
-<p>Заинтерисован в <strong>развитии</strong>, люблю решать олимпиадные задачки CTF(командные в том числе)</p>
+<p>Заинтерисован в <strong>развитии</strong></p>
 
 <p>Люблю свою собаку<img src="https://media.tenor.com/cDKriPMmZ9EAAAAi/national-pickle-day-corgi.gif" height="32" /> и кошку</p>
