@@ -1,7 +1,7 @@
 # Портфолио
 
 <h3 align="center">Всем привет <img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" height="32" />, я начинающий специалист по информационной безопасности</h3>
-<h3 align="center">Обучаюсь на курсе в "Нетологии" (Специалист по информационной безопасности с нуля), решаю задачки и постоянно развиваюсь</h3>
+<h3 align="center">Выпусник курса в "Нетологии" (Специалист по информационной безопасности с нуля), решаю задачки и постоянно развиваюсь</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF2400&lines=Мои+навыки:)](https://git.io/typing-svg)
 <p><strong>&bull;&nbsp;Английский - B2</strong></p>
@@ -25,20 +25,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB300&lines=Мои+проекты:)](https://git.io/typing-svg)
 
-
-<p><strong>&bull;&nbsp;</strong>Вхожу в топ <strong>3%</strong> на <a href="https://tryhackme.com/p/IvanGorbonos" target="_blank" rel="noopener"><strong>TryHackMe</a> и занимаю топ 600 на <a href="https://codeby.games/" target="_blank" rel="noopener"><strong>CodebyGames</a> </strong></p>
-
-<p><strong>&bull;&nbsp;</strong>Участие в стажировке<strong> Solar Cyber Dive</strong> от Solar :
-<p>Результат: получение <a href=https://disk.yandex.ru/d/jmi92cJa2lmPMg "target="_blank" rel="noopener"><strong>сертификата.</strong></a></p>
-
-<p><strong>&bull;&nbsp;</strong>Участие в <strong>IT-дайвинг</strong> от VK (выбор инциндента, расследование, почему он произошёл) : <a href="https://docs.google.com/document/d/1PkKaEWxhpm79vdBU8cIWObcYhF6-h7AoUfrjSEqSZMU/edit?usp=sharing" target="_blank" rel="noopener"><strong>Файл с проектом</a></strong></p>
-<p>Результат: приглашение на закрытое мероприятие в офисе VK и получение <a href="https://disk.yandex.ru/i/AVvcej8UMlJKkQ" target="_blank" rel="noopener"><strong>сертификата.</strong></a></p>
-
-<p><strong>&bull;&nbsp;</strong>Участие в <strong>Advent of Cyber 2022</strong> от Try Hack Me(основы кибербезопасности) : <a href="https://tryhackme.com/room/adventofcyber4" target="_blank" rel="noopener"><strong>Кибер-марафон</a></strong></p>
-<p>Результат: получение <a href="https://disk.yandex.ru/i/cqtIx5cpU3iOuA" target="_blank" rel="noopener"><strong>сертификата.</strong></a></p>
-
-<p><strong>&bull;&nbsp;</strong>Участие в курсе<strong>Белый хакер</strong> от CyberED : <a href=(https://cyber-ed.ru/professiya-hacker/)" target="_blank" rel="noopener"><strong>Профессия - белый хакер</a></strong></p>
-<p>Результат: получение <a href="https://disk.yandex.ru/i/tCm1brdDqhGr2g target="_blank" rel="noopener"><strong>сертификата с отличием!.</strong></a></p>
+<p>Нетология:</p>
 
 <p><strong>&bull;&nbsp;</strong>Проект<strong>&nbsp;"Сети передачи данных и безопасность":&nbsp;<a href="https://github.com/netology-code/pcs-ibnet-diplom" target="_blank" rel="noopener">Репозиторий с заданиями</a></strong></p>
 
@@ -52,6 +39,30 @@
 <p><strong>- </strong> (Комплексное исследование функционирующего приложения и исходных кодов)&nbsp;</p>
 
 <p><strong>&bull; </strong>Дипломная работа по профессии "Специалист по информационной безопасности"<strong> Track Penetration Testing:&nbsp;&nbsp;<a href="https://github.com/netology-code/sib-Diplom-Track-Penetration-Testing" target="_blank" rel="noopener">Репозиторий с дипломной работы</a></strong></p>
+<hr style="border: 2px solid blue;">
+<p>Результат обучения:<p>
+<p><strong>Получение сертификатов от Нетологии и F.A.C.C.T</strong></p>
+<a href="https://disk.yandex.ru/d/k47sEse-j3HEYg" target="_blank" rel="noopener">Нетология</a></p>
+<a href="https://disk.yandex.ru/d/VkIsfs0FS9D6KA" target="_blank" rel="noopener">F.A.C.C.T</a></p>
+<hr style="border: 2px solid blue;">
+
+<p><strong>&bull;&nbsp;</strong>Участие в стажировке<strong> Solar Cyber Dive</strong> от Solar:<p>
+<p>Результат: получение <a href=https://disk.yandex.ru/d/jmi92cJa2lmPMg "target="_blank" rel="noopener"><strong>сертификата.</strong></a></p>
+
+<hr style="border: 2px solid blue;">
+<p><strong>&bull;&nbsp;</strong>Вхожу в топ <strong>3%</strong> на <a href="https://tryhackme.com/p/IvanGorbonos" target="_blank" rel="noopener"><strong>TryHackMe</a> и занимаю топ 600 на <a href="https://codeby.games/" target="_blank" rel="noopener"><strong>CodebyGames</a> </strong></p>
+
+
+<p><strong>&bull;&nbsp;</strong>Участие в <strong>IT-дайвинг</strong> от VK (выбор инциндента, расследование, почему он произошёл): <a href="https://docs.google.com/document/d/1PkKaEWxhpm79vdBU8cIWObcYhF6-h7AoUfrjSEqSZMU/edit?usp=sharing" target="_blank" rel="noopener"><strong>Файл с проектом</a></strong></p>
+<p>Результат: приглашение на закрытое мероприятие в офисе VK и получение <a href="https://disk.yandex.ru/i/AVvcej8UMlJKkQ" target="_blank" rel="noopener"><strong>сертификата.</strong></a></p>
+
+<p><strong>&bull;&nbsp;</strong>Участие в <strong>Advent of Cyber 2022</strong> от Try Hack Me(основы кибербезопасности): <a href="https://tryhackme.com/room/adventofcyber4" target="_blank" rel="noopener"><strong>Кибер-марафон</a></strong></p>
+<p>Результат: получение <a href="https://disk.yandex.ru/i/cqtIx5cpU3iOuA" target="_blank" rel="noopener"><strong>сертификата.</strong></a></p>
+
+<p><strong>&bull;&nbsp;</strong>Участие в курсе<strong> Белый хакер</strong> от CyberED: <a href=(https://cyber-ed.ru/professiya-hacker/)" target="_blank" rel="noopener"><strong>Профессия - белый хакер</a></strong></p>
+<p>Результат: получение <a href="https://disk.yandex.ru/i/tCm1brdDqhGr2g target="_blank" rel="noopener"><strong>сертификата с отличием!</strong></a>.</p>
+
+<hr style="border: 2px solid blue;">
 
 
 
